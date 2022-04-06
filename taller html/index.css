@@ -1,0 +1,93 @@
+/* Add your styles here */
+h1 {text-align: center;
+    color: white;
+    font-size: 120px;
+    font-family: Fantasy;
+    }
+body {
+  background-color: black;
+}
+img {
+  width: 500px;
+  height: 350px;
+  object-fit: fill;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+
+  padding: 5px;
+}
+
+div1 {
+
+  position:fixed; 
+  right:40px; 
+  top:300px; 
+  background-color:black;
+}
+div2 {
+
+  position:fixed; 
+  left:40px; 
+  top:360px; 
+  background-color:black;
+  width: 500px;
+  height: 350px;
+}
+
+p1{
+text-align: center;
+    color: white;
+    font-size: 19px;
+}
+a {
+  color: hotpink;
+}
+
+p2{
+text-align: center;
+    color: white;
+    font-size: 40px;
+}
+ul{
+  color: white;
+   font-size: 30px;
+}
+
+div3 {
+
+  position:fixed; 
+  left:40px; 
+  top:730px; 
+  background-color:black;
+  width: 500px;
+  height: 350px;
+}
+
+div4 {
+
+  position:fixed; 
+  right:20px; 
+  top:730px;
+
+  width: 500px;
+  height: 350px;
+}
+
+form{
+  padding-left: 65px; 
+  color: white;
+  font-size: 30px;
+}
+h2{
+  color: white;
+  padding-left: 65px; 
+  font-size: 40px;
+}
+input[type="submit"]{
+  padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
